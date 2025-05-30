@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Step by Step Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+  <h1><span class="highlight">Step by Step Guide</span></h1>
+  <p>These are the steps I will take to become a successful influencer:</p>
+  <ol>
+    <li>
+    <h3>Step 1: Build Your Personal Brand or Logo</h3>
+    <p>Set your brand and logo that sets you apart on social media.</p>
+      <img src="C:\Users\User\Downloads\hello it basil.jpg" alt="Personal Branding"> 
+    </a>
+  </li>
+<li>
+    <h3>Step 2: Create Quality Content</h3>
+    <p>Post high-quality photos, videos, and captions that resonate with your audience.</p>
+    <img src="https://idigmarketing.com/wp-content/uploads/2017/05/Fotolia_84158901_Subscription_Monthly_M.jpg" alt="Create Quality Content">
+    </a>
+  </li>
+
+ <li>
+    <h3>Step 3: Stay Consistent & Engage</h3>
+    <p>Be consistent and actively connect with followers through stories, replies, and lives.</p>
+    <img src="https://curatedevents.com/wp-content/uploads/2022/12/Speaker-at-an-event-asking-the-audience-questions.jpg" alt="Engage Audience">
+    </a>
+  </li>
+    </a>
+   </ol>
+
+  <nav>
+    <a href="index.html">← Back to Home</a>
+  </nav>
+</body>
+</html>

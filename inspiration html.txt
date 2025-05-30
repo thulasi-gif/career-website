@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inspiration & Resources</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Inspiration & Resources</h1>
+  <p>Here are the influencers who inspire me to dream bigger and speak louder:</p>
+
+  <table>
+    <tr>
+      <th>Image</th>
+      <th>Influencer</th>
+      <th>Specialty</th>
+      <th>Learn More</th>
+    </tr>
+    <tr>
+       <td>
+      <img src="https://tse2.mm.bing.net/th?id=OIP.3_wke3U4IATGWZMQk7eSsQHaJQ&pid=Api&P=0&h=180" alt="Pashini Kesavan" width="70"><br>
+      <td>Pashini Kesavan</td>
+      <td>Empowerment, Beauty & Motivation</td>
+      <td>
+        <a href="https://www.instagram.com/pashini_/" target="_blank">Instagram</a> |
+        <a href="https://www.youtube.com/watch?v=H5ZJ9_oLun8" target="_blank">Youtube video</a> |
+        <a href="https://www.tiktok.com/@pashini_" target="_blank">TikTok</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <img src="https://tse1.mm.bing.net/th?id=OIP.8yA7qBGUajSEjzpjlhmMxgHaE8&pid=Api&P=0&h=180" width="70"><br>
+      <td>Arwind Kumar</td>
+      <td>Activism, Humor & Real Talk</td>
+      <td>
+        <a href="https://www.instagram.com/aforarwind/" target="_blank">Instagram</a> |
+        <a href="https://www.youtube.com/@ArwindKumar95" target="_blank">Youtube video</a> |
+        <a href="https://www.tiktok.com/@aforarwind" target="_blank">TikTok</a>
+      </td>
+    </tr>
+  </table>
+
+  <nav>
+    <a href="index.html">← Back to Home</a>
+  </nav>
+</body>
+</html>
